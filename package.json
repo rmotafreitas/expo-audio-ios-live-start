@@ -1,9 +1,10 @@
 {
-  "name": "repro",
+  "name": "expo-audio-ios-live-start",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
     "expo": "~57.0.24",
+    "expo-audio": "~57.0.5",
     "expo-status-bar": "~57.0.1",
     "react": "19.2.3",
     "react-native": "0.86.3"
